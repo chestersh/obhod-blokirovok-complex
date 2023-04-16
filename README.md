@@ -6,7 +6,7 @@ Configuration explanation
 Physical devices:
 ----------------------
 
-Nice country without Putin or Internet Censorship:
+Nice country :
 
 1. Server (gentoo linux), has an external IP: `188.1.2.3`. It runs: `squid`, `polipo`, `tor`, `i2p`, `openvpn`, `strongswan`, `bird`, `dnsmasq` and `dante`
 2. `6to4` tunnel service from https://tunnelbroker.net
@@ -74,7 +74,7 @@ TODO: Add DN42
 Физические устройства:
 ----------------------
 
-Приличная страна без путина и роскомнадзора:
+Приличная страна:
 
 1. Сервер (gentoo), внешний IP этого сервера: `188.1.2.3`. На нём запущены: `squid`, `polipo`, `tor`, `i2p`, `openvpn`, `strongswan`, `bird`, `dnsmasq` и `dante`
 2. Сервер от https://tunnelbroker.net который предоставляет `6to4` туннели
